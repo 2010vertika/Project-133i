@@ -1,0 +1,31 @@
+body 
+{
+    background-size:cover;
+    background-position: center;
+}
+
+#header
+{
+ font-family:cursive;
+ color: white;
+}
+
+a{
+    font-size: 20px;
+   color:gold;
+}
+
+#header1
+{
+    color:white;
+}
+
+h3
+{
+    color:white;
+}
+
+img{
+    width:300px;
+    height:300px;
+}
